@@ -1,0 +1,12 @@
+fastapi[all]
+fastapi-cache
+pydantic
+python-dotenv
+sqlalchemy
+pymysql
+ffmpeg-python
+pillow
+python-multipart
+aiofile
+# python-jose[cryptography]
+# passlib[bcrypt]
